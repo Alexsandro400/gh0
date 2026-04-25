@@ -57,19 +57,15 @@
 
 ## O que é GitHub?
 
-<!-- TODO: Explique o que é GitHub -->
-<!-- Dicas:
-- Plataforma de hospedagem de código
-- Baseada em Git
-- Ferramentas de colaboração
-- Maior plataforma de código aberto do mundo
-- Não é a mesma coisa que Git!
--->
+O GitHub é uma **plataforma web** que hospeda repositórios Git na nuvem, adicionando ferramentas de colaboração, revisão de código e automação por cima do Git. Foi fundado em abril de 2008 por Tom Preston-Werner, Chris Wanstrath e PJ Hyett, o GitHub cresceu rapidamente e se tornou o lar da maioria dos projetos open source do mundo. Em junho de 2018, a Microsoft adquiriu o GitHub por US$ 7,5 bilhões, mantendo-o operando de forma independente e expandindo os recursos gratuitos, incluindo repositórios privados ilimitados para contas gratuitas.
 
 ### Recursos do GitHub
 
-<!-- TODO: Liste os principais recursos do GitHub -->
-<!-- Exemplos: repositórios, issues, pull requests, actions, pages, etc. -->
+- **Repositórios remotos**: Hospeda seu código na nuvem, servindo como fonte de verdade compartilhada para toda a equipe
+- **Pull Requests (PRs)**: Mecanismo para propor, revisar e discutir alterações antes de incorporá-las ao código principal
+- **Issues**: Sistema integrado para rastrear bugs, tarefas e sugestões
+- **GitHub Actions**: Plataforma de automação e CI/CD nativa, que roda testes e deploys automaticamente a cada push ou PR
+- **GitHub Pages**: Hospedagem gratuita de sites estáticos direto de um repositório
 
 ## Diferença entre Git e GitHub
 
