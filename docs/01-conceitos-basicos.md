@@ -69,19 +69,21 @@ O GitHub é uma **plataforma web** que hospeda repositórios Git na nuvem, adici
 
 ## Diferença entre Git e GitHub
 
-<!-- TODO: Explique claramente a diferença -->
-<!-- Esta é uma confusão comum! Seja muito claro aqui -->
+É importante entender que **Git e GitHub não são a mesma coisa.** Git é a ferramenta de controle de versão, enquanto GitHub é a plataforma que usa Git por baixo dos panos, você pode usar Git sem o GitHub, mas não pode usar o GitHub sem Git. De forma resumida, **Git é a ferramenta, GitHub é a plataforma.**
 
-<!-- Use uma tabela comparativa, por exemplo:
-| Git | GitHub |
-|-----|--------|
-| ... | ...    |
--->
+| Aspecto | Git | GitHub |
+|---|---|---|
+| O que é | Ferramenta de linha de comando | Plataforma web |
+| Onde roda | Localmente, na sua máquina | Na nuvem |
+| Criado por | Linus Torvalds (2005) | Preston-Werner, Wanstrath, Hyett (2008) |
+| Necessita internet | Não | Sim |
+| Custo | Gratuito e open source | Gratuito (com planos pagos) |
 
 ### Analogia Útil
 
-<!-- TODO: Crie uma analogia para ajudar a entender a diferença -->
-<!-- Exemplo: Git é como um sistema de arquivos com histórico, GitHub é como o Google Drive para Git -->
+Podemos pensar da seguinte forma, **o Git é como o Word e o GitHub é como o Google Drive.**
+
+O Word (Git) é a ferramenta onde o trabalho acontece, você escreve, edita e mantém o histórico das versões. Enquanto o Google Drive (GitHub) é onde você armazena e compartilha esse trabalho com outras pessoas. Você pode usar o Word sem o Google Drive, mas o arquivo fica preso na sua máquina. Com o Drive, qualquer pessoa da equipe pode acessar, comentar e colaborar, e é exatamente isso que o GitHub faz pelo seu código.
 
 ## Conceitos Fundamentais
 
